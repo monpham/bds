@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "keen-alignment-230702",
+  "private_key_id": "6d0f0bae28b96906b139cc9d31a53fa58bbabd8a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDbIBeJkYJ3Mdpt\nC+zO5nfSo2pviJkcyB82PU8/8wvnBgZh/Wtpcx/vZAuU4G0s261ztz2Ferfxl0ef\nzc01EMeE/3syUES261ShPQJhwrEyxxp2gLz74QbcjkdJEt9ApQtwuJPGGhEm8viq\n+y3ptXm66Da1m/rM4urY0ERQXJljl6P7gfgM8Hq6dmF84muHXi9mb73KvtgjXkKi\nopTvMfM6Lj7ZCGYCBFQK8EAiFyI5yQZbHYGExwxXo3NBVD5Wvlntbj/e+SwRwcdV\n4+iN1lh9v2zwskcL5QsJqQgvu0pM/awHq5m7sBLnac2G3mhvF0GoY6KAWgLnawAH\n8zTfVgPdAgMBAAECggEAY2X411oOvQP7yah1qNsJsp6XWvWzQseSxPdluiQFm6vz\nfELJFSH4dA7FZCizzXvvAAU4npJu22PcxSRFeFNetjlwCIA502IH10ZGDNOUrux7\nWBMI5xcKFkViF8c8R2Y2vNC1k9DiQ/FGlMTw7El6aSsKGjKhv4wVrPk4a929ZNue\n4SevUyF1JyWS6kmxLZaqfhj0IXn5KlZy48Zue4FBLhl8F3APzPITQ9hamGa80vXI\ntH1SN9L+5T6R+DGHkKRcuIAWC++j9xAXahL08kf5sLzs7MvsxN84NnWKQeaMk/RA\ns9aMzIx/YKoqGxXNAMdDac7JrOBOIp/Fwqpx8kf4nwKBgQD8hsQ2enbpI+wf1PTP\ng4//A8WBxmOreBPeIuxPZSPgtq5elTvSdSGYHIb9v8tSNToGZIQAH6FxiwyVVQLM\nuRAF8tf8hHCedhPzQwoGal89OK9GkUPyAvbenQ1p1xkbICZ7/y4rLkC1BvzFH2BF\nsYAlPqkSH+YJCRBMh0R6LsKGQwKBgQDeI7VrrSeKJrzxHJe4kUFisK3gArOvJPH8\nxAFTQNXs3utqinhwHWsQ2zT/gJv223KOMFrr2cJBLxki4linTShcBeDEceccKVwT\n2xk8e0ibHpC/xrhYbfHlrUa8RViRFurx4FMpinutWUANydjayL+I8K7K4nUc1dEo\no0+btox7XwKBgQCIweNZLZFgSVgDFS1PhIxjKwO3eF1Z6zm3P2qCxN9dPxHHn0I6\ng7yhyDFDEq9l4fV+qMjj2D1yZD94UAWoIUEQN6fI1WC4MHI1d8TiHJFfcmdZ7CnD\n0t8nSB6PhzHNgufUlynFsNLSNuqFRqy4kZw4j2q4qhXGJuZwy4DGOrSWSQKBgQDP\n3pxzQVphtfRSsA3uAccs4eYjXIPmXm0vuf7/eAl3mfa0ARXI3E6HPImwmhnYe+wL\n0IYUc/aKZtdfxG1vSQ1+Z2W4jlnVCYMHdZx882Sy+3w6aWuyHFgjM+2gWkgRpV9/\nrgpEMjmfsof1HzAVM4vASnFWm2k57X/HRmNFdCKrgwKBgQDVr+u2s294VRE9iyiv\noff/dzXhnElA9HVHmObJujhwAgBeQA7ePe/NmEi6SmfLJrr6kl/YXmLMSUrAKKeh\nK1wtnlrNwpWjUjSRVJLDIILiFoWkdLlMoQg5YRKF+hvGs2ap6a6s1k9gwcMpVguM\nRMIKCYRVNJfVxwqvKSoM2FK1yg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "upload@keen-alignment-230702.iam.gserviceaccount.com",
+  "client_id": "115525430743014569541",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/upload%40keen-alignment-230702.iam.gserviceaccount.com"
+}
